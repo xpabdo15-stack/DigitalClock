@@ -1,0 +1,27 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 97vh;
+  width: 97vw;
+  flex-direction: column;
+  background-color: #001;
+}
+/* https://git.example.org/code/git/digitalClock */
+.ck {
+  border: 2px solid white;
+  border-radius: 20px;
+  padding: 4px;
+  font-size: 32px;
+  font-weight: bold;
+  margin-top: 20px;
+  width: fit-content;
+  /* margin: auto; */
+  background-color: #001;
+  color: white;
+}
+h2 {
+  font-weight: bold;
+  letter-spacing: 1.5px;
+  color: white;
+}
